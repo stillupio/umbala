@@ -18,6 +18,8 @@ $yellow: #f9f871;
 $green: #008a5c;
 $gray: #808080;
 $gyeal: #CCC;
+$white: #ffffff;
+$black: #000000;
 
 //Color
 .sulu {
@@ -52,4 +54,47 @@ $gyeal: #CCC;
 }
 .gyeal {
     color: $gyeal
+}
+
+
+//Background Colors
+.background-white {
+    background-color: $white
+}
+.background-black {
+    background-color: $black
+}
+
+.background-sulu {
+    background-color: $sulu
+}
+.background-blue {
+    background-color: $blue
+}
+.background-slate {
+    background-color: $slate
+}
+.background-violet {
+    background-color: $violet
+}
+.background-pink {
+    background-color: $pink
+}
+.background-orange {
+    background-color: $orange
+}
+.background-red {
+    background-color: $red
+}
+.background-yellow {
+    background-color: $yellow
+}
+.background-green {
+    background-color: $green
+}
+.background-gray {
+    background-color: $gray
+}
+.background-gyeal {
+    background-color: $gyeal
 }
