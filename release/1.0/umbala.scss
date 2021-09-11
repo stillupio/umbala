@@ -1,82 +1,98 @@
+/*======================================
+         Welocme to umbala
+         
+you can get fun with your coding time
+by listining to our playlist in Spotify
+=======================================*/
+
+
 //Umbala Matching Palette
 $sulu: #89F387;
-$triadic: #3e4a3d;
-$santas: #A1AF9F;
-$malibu: #4AD0FF;
-$shades: #ff9a43;
-$threedom: #FF6881;
-$random: #1A912D;
-$warning: #B80000;
-//Main pallet
-$tomato: #FF6347;
-$orange: #ffab0f;
-$blue: #00b6ff;
-$green: #BCF000;
-$gray: #808080;
-$gyeal: #CCC;
+$blue: #00acff;
 $slate: #6a5acd;
 $violet: #e95ee9;
+$pink: #f37cb2;
+$orange: #e36900;
+$red: #FF6347;
+$yellow: #f9f871;
+$green: #008a5c;
+$gray: #808080;
+$gyeal: #CCC;
+$white: #ffffff;
+$black: #000000;
 //Color
 .sulu {
     color: $sulu
 }
-
-.triadic {
-    color: $triadic
-}
-
-.santas {
-    color: $santas
-}
-
-.malibu {
-    color: $malibu
-}
-
-.shades {
-    color: $shades
-}
-
-.threedom {
-    color: $threedom
-}
-
-.random {
-    color: $random
-}
-
-.warning {
-    color: $warning
-}
-
-.tomato {
-    color: $tomato
-}
-
-.orange {
-    color: $orange
-}
-
 .blue {
     color: $blue
 }
-
+.slate {
+    color: $slate
+}
+.violet {
+    color: $violet
+}
+.pink {
+    color: $pink
+}
+.orange {
+    color: $orange
+}
+.red {
+    color: $red
+}
+.yellow {
+    color: $yellow
+}
 .green {
     color: $green
 }
-
 .gray {
     color: $gray
 }
-
 .gyeal {
     color: $gyeal
 }
 
-.slate {
-    color: $slate
+//Background Colors
+.background-white {
+    background-color: $white
+}
+.background-black {
+    background-color: $black
 }
 
-.violet {
-    color: $violet
+.background-sulu {
+    background-color: $sulu
+}
+.background-blue {
+    background-color: $blue
+}
+.background-slate {
+    background-color: $slate
+}
+.background-violet {
+    background-color: $violet
+}
+.background-pink {
+    background-color: $pink
+}
+.background-orange {
+    background-color: $orange
+}
+.background-red {
+    background-color: $red
+}
+.background-yellow {
+    background-color: $yellow
+}
+.background-green {
+    background-color: $green
+}
+.background-gray {
+    background-color: $gray
+}
+.background-gyeal {
+    background-color: $gyeal
 }
