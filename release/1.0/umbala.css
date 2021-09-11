@@ -1,49 +1,43 @@
+/*======================================
+         Welocme to umbala
+         
+you can get fun with your coding time
+by listining to our playlist in Spotify
+=======================================*/
 .sulu {
   color: #89F387;
 }
 
-.triadic {
-  color: #3e4a3d;
+.blue {
+  color: #00acff;
 }
 
-.santas {
-  color: #A1AF9F;
+.slate {
+  color: #6a5acd;
 }
 
-.malibu {
-  color: #4AD0FF;
+.violet {
+  color: #e95ee9;
 }
 
-.shades {
-  color: #ff9a43;
-}
-
-.threedom {
-  color: #FF6881;
-}
-
-.random {
-  color: #1A912D;
-}
-
-.warning {
-  color: #B80000;
-}
-
-.tomato {
-  color: #FF6347;
+.pink {
+  color: #f37cb2;
 }
 
 .orange {
-  color: #ffab0f;
+  color: #e36900;
 }
 
-.blue {
-  color: #00b6ff;
+.red {
+  color: #FF6347;
+}
+
+.yellow {
+  color: #f9f871;
 }
 
 .green {
-  color: #BCF000;
+  color: #008a5c;
 }
 
 .gray {
@@ -54,11 +48,191 @@
   color: #CCC;
 }
 
-.slate {
-  color: #6a5acd;
+.background-white {
+  background-color: #ffffff;
 }
 
-.violet {
-  color: #e95ee9;
+.background-black {
+  background-color: #000000;
+}
+
+.background-sulu {
+  background-color: #89F387;
+}
+
+.background-blue {
+  background-color: #00acff;
+}
+
+.background-slate {
+  background-color: #6a5acd;
+}
+
+.background-violet {
+  background-color: #e95ee9;
+}
+
+.background-pink {
+  background-color: #f37cb2;
+}
+
+.background-orange {
+  background-color: #e36900;
+}
+
+.background-red {
+  background-color: #FF6347;
+}
+
+.background-yellow {
+  background-color: #f9f871;
+}
+
+.background-green {
+  background-color: #008a5c;
+}
+
+.background-gray {
+  background-color: #808080;
+}
+
+.background-gyeal {
+  background-color: #CCC;
+}
+
+.border-style-dotted {
+  border-style: dotted;
+}
+
+.border-style-dashed {
+  border-style: dashed;
+}
+
+.border-style-solid {
+  border-style: solid;
+}
+
+.border-style-double {
+  border-style: double;
+}
+
+.border-style-groove {
+  border-style: groove;
+}
+
+.border-style-ridge {
+  border-style: ridge;
+}
+
+.border-style-inset {
+  border-style: inset;
+}
+
+.border-style-outset {
+  border-style: outset;
+}
+
+.border-style-none {
+  border-style: none;
+}
+
+.border-style-hidden {
+  border-style: hidden;
+}
+
+.border-style-mix {
+  border-style: dotted dashed solid double;
+}
+
+.border-width-thin {
+  border-width: thin;
+}
+
+.border-width-meduim {
+  border-width: medium;
+}
+
+.border-width-thick {
+  border-width: thick;
+}
+
+.border-width-1 {
+  border-width: 1px;
+}
+
+.border-width-2 {
+  border-width: 2px;
+}
+
+.border-width-3 {
+  border-width: 3px;
+}
+
+.border-width-4 {
+  border-width: 4px;
+}
+
+.border-width-5 {
+  border-width: 5px;
+}
+
+.border-width-6 {
+  border-width: 6px;
+}
+
+.border-width-7 {
+  border-width: 7px;
+}
+
+.border-width-8 {
+  border-width: 8px;
+}
+
+.border-width-9 {
+  border-width: 9px;
+}
+
+.border-width-10 {
+  border-width: 10px;
+}
+
+.border-width-11 {
+  border-width: 11px;
+}
+
+.border-width-12 {
+  border-width: 12px;
+}
+
+.border-width-13 {
+  border-width: 13px;
+}
+
+.border-width-14 {
+  border-width: 14px;
+}
+
+.border-width-15 {
+  border-width: 15px;
+}
+
+.border-width-16 {
+  border-width: 16px;
+}
+
+.border-width-17 {
+  border-width: 17px;
+}
+
+.border-width-18 {
+  border-width: 18px;
+}
+
+.border-width-19 {
+  border-width: 19px;
+}
+
+.border-width-20 {
+  border-width: 20px;
 }
 /*# sourceMappingURL=umbala.css.map */
