@@ -151,7 +151,7 @@ Or you can specify where you want to add the margin in top, bottom, left, right,
 ```
 
 
-## paddings
+## Paddings
 
 You can make a regular padding to your html by adding a size from 1px to 25px  in "padding-"
 
