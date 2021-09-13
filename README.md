@@ -9,14 +9,14 @@
 
 ## Table of umbala.css
 
-- [Colors Pallet](#)
-- [Text Colors](#)
-- [Background Colors](#)
-- [Borders](#)
-- [Margins](#)
-- [Paddings](#)
+- [Colors Pallet](#colors-pallet)
+- [Text Colors](#text-colors)
+- [Background Colors](#background-colors)
+- [Borders](#borders)
+- [Margins](#margins)
+- [Paddings](#paddings)
 
-## Colors
+## Colors Pallet
 
 We chose the most colors used in the web and we gave them a simple touch to be more compatible with the trending of UI Design and more attractive in the UX.
 
