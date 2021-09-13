@@ -60,3 +60,34 @@ You can include the background color to your html by adding color name after "ba
 </div>
 
 ```
+
+## Borders
+
+You can make a regular borders by define style, width, color {exemple below}
+
+```html
+
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu" > Welcome to umbala </p>
+</div>
+
+```
+Note: in border width we have from 1px to 25px by add just number after "border-width-".
+
+
+You can make add a border redius from 1px to 25px or you can use the percent " 5%,10%,15%,...100%" by add "border-radius-...per"
+
+```html
+
+//Radius by px
+<div class="background-gray border-red border-width-3 border-style-solid border-radius-5">
+  <p class="sulu" > Welcome to umbala </p>
+</div>
+
+//Radius by percent
+<div class="background-gray border-red border-width-3 border-style-solid border-radius-5per">
+  <p class="sulu" > Welcome to umbala </p>
+</div>
+
+```
+
