@@ -100,3 +100,52 @@ Note: we have simple UI tip in Borders by add "rounded" or "unrounded"
 
 ```
 
+## Margins
+
+You can make a regular margin to your html by adding a size from 1px to 25px  in "margin-"
+
+```html
+
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-5" > Welcome to umbala </p>
+</div>
+
+```
+
+Or you can specify where you want to add the margin in top, bottom, left, right, horizontal, vertical.
+
+```html
+
+//Top
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-top-5 " > Welcome to umbala </p>
+</div>
+
+//Bottom
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-bottom-5 " > Welcome to umbala </p>
+</div>
+
+//Left
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-left-5 " > Welcome to umbala </p>
+</div>
+
+//Right
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-right-5 " > Welcome to umbala </p>
+</div>
+
+//Horizontal
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-horizontal-5 " > Welcome to umbala </p>
+</div>
+
+//Vertical
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu margin-vartical-5 " > Welcome to umbala </p>
+</div>
+
+
+
+```
