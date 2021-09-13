@@ -149,3 +149,54 @@ Or you can specify where you want to add the margin in top, bottom, left, right,
 
 
 ```
+
+
+## paddings
+
+You can make a regular padding to your html by adding a size from 1px to 25px  in "padding-"
+
+```html
+
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-5" > Welcome to umbala </p>
+</div>
+
+```
+
+Or you can specify where you want to add the padding in top, bottom, left, right, horizontal, vertical.
+
+```html
+
+//Top
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-top-5 " > Welcome to umbala </p>
+</div>
+
+//Bottom
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-bottom-5 " > Welcome to umbala </p>
+</div>
+
+//Left
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-left-5 " > Welcome to umbala </p>
+</div>
+
+//Right
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-right-5 " > Welcome to umbala </p>
+</div>
+
+//Horizontal
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-horizontal-5 " > Welcome to umbala </p>
+</div>
+
+//Vertical
+<div class="background-gray border-red border-width-3 border-style-solid">
+  <p class="sulu padding-vartical-5 " > Welcome to umbala </p>
+</div>
+
+
+
+```
