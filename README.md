@@ -91,3 +91,12 @@ You can make add a border redius from 1px to 25px or you can use the percent " 5
 
 ```
 
+Note: we have simple UI tip in Borders by add "rounded" or "unrounded"
+
+```html
+<div class="background-gray border-red border-width-3 border-style-solid rounded">
+  <p class="sulu" > Welcome to umbala </p>
+</div>
+
+```
+
