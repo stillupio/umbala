@@ -1,10 +1,10 @@
 
 <p align="center">
   <a href="https://strutly.co/umbala">
-    <img src="https://raw.githubusercontent.com/strutly/umbala/main/img/logo.png" alt="Bootstrap logo" width="300">
+    <img src="https://i.ibb.co/Hq0qnY8/logo.png" alt="Umbala logo" width="275">
   </a>
 </p>
-<h4 align="center">lightweight and powerful css framework</h4>
+<h4 align="center">Lightweight and powerful css framework</h4>
 
 
 ## Table of umbala.css
