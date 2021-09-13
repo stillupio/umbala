@@ -48,3 +48,15 @@ You can include the color name directly in the class attribute and it will be sh
 <p class="sulu" > Welcome to umbala </p>
 
 ```
+
+
+## Background Colors
+
+You can include the background color to your html by adding color name after "background-".
+
+```html
+<div class="background-gray">
+  <p class="sulu" > Welcome to umbala </p>
+</div>
+
+```
