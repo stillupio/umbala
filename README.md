@@ -13,6 +13,7 @@
 - [Colors](#colors)
 - [Text Alignment](#text-alignment)
 - [Text Direction](#text-direction)
+- [Letter spacing](#letter-spacing)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -69,6 +70,16 @@ You can specify text direction (rtl, ltr, ...) by adding "direction-..."
 ```html
 
 <p class="sulu text-center direction-lft" > Welcome to umbala </p>
+
+```
+
+## Letter Spacing
+
+You can add a space between latters by using "letter-spacing-..." and add a number from 1 to 25 or normalm initial
+
+```html
+
+<p class="sulu text-center direction-lft letter-spacing-5" > Welcome to umbala </p>
 
 ```
 
