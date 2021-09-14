@@ -14,6 +14,7 @@
 - [Text Alignment](#text-alignment)
 - [Text Direction](#text-direction)
 - [Letter spacing](#letter-spacing)
+- [Line Height](#ine-height)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -75,14 +76,24 @@ You can specify text direction (rtl, ltr, ...) by adding "direction-..."
 
 ## Letter Spacing
 
-You can add a space between latters by using "letter-spacing-..." and add a number from 1 to 25 or normalm initial
+You can add a space between latters by using "letter-spacing-..." and add a number from 1 to 25 or normal, initial
 
 ```html
 
 <p class="sulu text-center direction-lft letter-spacing-5" > Welcome to umbala </p>
 
 ```
+## Line Height
 
+You can add a line height to your text by using "line-height-..." and add a number from 1 to 25
+
+```html
+
+<p class="gray line-height-4" > 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+</p>
+
+```
 
 ## Background Colors
 
