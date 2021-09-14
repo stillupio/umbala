@@ -89,6 +89,23 @@ $black: #000000;
     text-align: inherit;
 }
 
+//Direction
+.direction-rtl {
+    direction: rtl;
+}
+
+.direction-lft {
+    direction: lft;
+}
+
+.direction-initial {
+    direction: initial;
+}
+
+.direction-inherit {
+    direction: inherit;
+}
+
 //Background Colors
 .background-white {
     background-color: $white

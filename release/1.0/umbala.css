@@ -72,6 +72,22 @@ by listining to our playlist in Spotify
   text-align: inherit;
 }
 
+.direction-rtl {
+  direction: rtl;
+}
+
+.direction-lft {
+  direction: lft;
+}
+
+.direction-initial {
+  direction: initial;
+}
+
+.direction-inherit {
+  direction: inherit;
+}
+
 .background-white {
   background-color: #ffffff;
 }
