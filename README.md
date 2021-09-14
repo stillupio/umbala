@@ -10,7 +10,8 @@
 ## Table of umbala.css
 
 - [Colors Pallet](#colors-pallet)
-- [Text Colors](#text-colors)
+- [Colors](#colors)
+- [Text Alignment](#text-alignment)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -40,13 +41,23 @@ black: #000000;
 
 ```
 
-## Text Colors
+## Colors
 
 You can include the color name directly in the class attribute and it will be shown as a color property in CSS.
 
 ```html
 
 <p class="sulu" > Welcome to umbala </p>
+
+```
+
+## Text Alignment
+
+You can specify your Text Alignment by adding a simple regular css text align value after "text-".
+
+```html
+
+<p class="sulu text-center" > Welcome to umbala </p>
 
 ```
 
