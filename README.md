@@ -12,6 +12,7 @@
 - [Colors Pallet](#colors-pallet)
 - [Colors](#colors)
 - [Text Alignment](#text-alignment)
+- [Text Direction](#text-direction)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -58,6 +59,16 @@ You can specify your Text Alignment by adding a simple regular css text align va
 ```html
 
 <p class="sulu text-center" > Welcome to umbala </p>
+
+```
+
+## Text Direction
+
+You can specify text direction (rtl, ltr, ...) by adding "direction-..."
+
+```html
+
+<p class="sulu text-center direction-lft" > Welcome to umbala </p>
 
 ```
 
