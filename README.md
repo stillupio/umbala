@@ -15,6 +15,7 @@
 - [Borders](#borders)
 - [Margins](#margins)
 - [Paddings](#paddings)
+- [Outlines](#Outlines)
 
 ## Colors Pallet
 
@@ -198,5 +199,17 @@ Or you can specify where you want to add the padding in top, bottom, left, right
 </div>
 
 
+
+```
+
+## Outlines
+
+You can add outline to your html by add (color, width, style, offset) proprety after "outline-...".
+
+```html
+
+<div class="border-red border-width-3 border-style-solid  outline-red outline-width-2 outline-style-dotted outline-offset-5">
+  <p class="sulu margin-5" > Welcome to umbala </p>
+</div>
 
 ```
