@@ -48,6 +48,30 @@ by listining to our playlist in Spotify
   color: #CCC;
 }
 
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-initial {
+  text-align: initial;
+}
+
+.text-inherit {
+  text-align: inherit;
+}
+
 .background-white {
   background-color: #ffffff;
 }

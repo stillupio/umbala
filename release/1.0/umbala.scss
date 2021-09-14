@@ -64,6 +64,31 @@ $black: #000000;
     color: $gyeal
 }
 
+//Text align
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.text-initial {
+    text-align: initial;
+}
+
+.text-inherit {
+    text-align: inherit;
+}
+
 //Background Colors
 .background-white {
     background-color: $white
