@@ -100,7 +100,7 @@ by listining to our playlist in Spotify
   background-color: #CCC;
 }
 
-.boder-none {
+.border-none {
   border: none;
 }
 
@@ -3602,5 +3602,317 @@ by listining to our playlist in Spotify
 .padding-vertical-25 {
   padding-top: 25px;
   padding-bottom: 25px;
+}
+
+.outline-none {
+  outline: none;
+}
+
+.outline-white {
+  outline-color: #ffffff;
+}
+
+.outline-black {
+  outline-color: #000000;
+}
+
+.outline-sulu {
+  outline-color: #89F387;
+}
+
+.outline-blue {
+  outline-color: #00acff;
+}
+
+.outline-slate {
+  outline-color: #6a5acd;
+}
+
+.outline-violet {
+  outline-color: #e95ee9;
+}
+
+.outline-pink {
+  outline-color: #f37cb2;
+}
+
+.outline-orange {
+  outline-color: #e36900;
+}
+
+.outline-red {
+  outline-color: #FF6347;
+}
+
+.outline-yellow {
+  outline-color: #f9f871;
+}
+
+.outline-green {
+  outline-color: #008a5c;
+}
+
+.outline-gray {
+  outline-color: #808080;
+}
+
+.outline-gyeal {
+  outline-color: #CCC;
+}
+
+.outline-width-thin {
+  outline-width: thin;
+}
+
+.outline-width-meduim {
+  outline-width: medium;
+}
+
+.outline-width-thick {
+  outline-width: thick;
+}
+
+.outline-width-1 {
+  outline-width: 1px;
+}
+
+.outline-width-2 {
+  outline-width: 2px;
+}
+
+.outline-width-3 {
+  outline-width: 3px;
+}
+
+.outline-width-4 {
+  outline-width: 4px;
+}
+
+.outline-width-5 {
+  outline-width: 5px;
+}
+
+.outline-width-6 {
+  outline-width: 6px;
+}
+
+.outline-width-7 {
+  outline-width: 7px;
+}
+
+.outline-width-8 {
+  outline-width: 8px;
+}
+
+.outline-width-9 {
+  outline-width: 9px;
+}
+
+.outline-width-10 {
+  outline-width: 10px;
+}
+
+.outline-width-11 {
+  outline-width: 11px;
+}
+
+.outline-width-12 {
+  outline-width: 12px;
+}
+
+.outline-width-13 {
+  outline-width: 13px;
+}
+
+.outline-width-14 {
+  outline-width: 14px;
+}
+
+.outline-width-15 {
+  outline-width: 15px;
+}
+
+.outline-width-16 {
+  outline-width: 16px;
+}
+
+.outline-width-17 {
+  outline-width: 17px;
+}
+
+.outline-width-18 {
+  outline-width: 18px;
+}
+
+.outline-width-19 {
+  outline-width: 19px;
+}
+
+.outline-width-20 {
+  outline-width: 20px;
+}
+
+.outline-width-21 {
+  outline-width: 21px;
+}
+
+.outline-width-22 {
+  outline-width: 22px;
+}
+
+.outline-width-23 {
+  outline-width: 23px;
+}
+
+.outline-width-24 {
+  outline-width: 24px;
+}
+
+.outline-width-25 {
+  outline-width: 25px;
+}
+
+.outline-style-dotted {
+  outline-style: dotted;
+}
+
+.outline-style-dashed {
+  outline-style: dashed;
+}
+
+.outline-style-solid {
+  outline-style: solid;
+}
+
+.outline-style-double {
+  outline-style: double;
+}
+
+.outline-style-groove {
+  outline-style: groove;
+}
+
+.outline-style-ridge {
+  outline-style: ridge;
+}
+
+.outline-style-inset {
+  outline-style: inset;
+}
+
+.outline-style-outset {
+  outline-style: outset;
+}
+
+.outline-style-none {
+  outline-style: none;
+}
+
+.outline-style-hidden {
+  outline-style: hidden;
+}
+
+.outline-style-mix {
+  outline-style: dotted dashed solid double;
+}
+
+.outline-offset-1 {
+  outline-offset: 1px;
+}
+
+.outline-offset-2 {
+  outline-offset: 2px;
+}
+
+.outline-offset-3 {
+  outline-offset: 3px;
+}
+
+.outline-offset-4 {
+  outline-offset: 4px;
+}
+
+.outline-offset-5 {
+  outline-offset: 5px;
+}
+
+.outline-offset-6 {
+  outline-offset: 6px;
+}
+
+.outline-offset-7 {
+  outline-offset: 7px;
+}
+
+.outline-offset-8 {
+  outline-offset: 8px;
+}
+
+.outline-offset-9 {
+  outline-offset: 9px;
+}
+
+.outline-offset-10 {
+  outline-offset: 10px;
+}
+
+.outline-offset-11 {
+  outline-offset: 11px;
+}
+
+.outline-offset-12 {
+  outline-offset: 12px;
+}
+
+.outline-offset-13 {
+  outline-offset: 13px;
+}
+
+.outline-offset-14 {
+  outline-offset: 14px;
+}
+
+.outline-offset-15 {
+  outline-offset: 15px;
+}
+
+.outline-offset-16 {
+  outline-offset: 16px;
+}
+
+.outline-offset-17 {
+  outline-offset: 17px;
+}
+
+.outline-offset-18 {
+  outline-offset: 18px;
+}
+
+.outline-offset-19 {
+  outline-offset: 19px;
+}
+
+.outline-offset-20 {
+  outline-offset: 20px;
+}
+
+.outline-offset-21 {
+  outline-offset: 21px;
+}
+
+.outline-offset-22 {
+  outline-offset: 22px;
+}
+
+.outline-offset-23 {
+  outline-offset: 23px;
+}
+
+.outline-offset-24 {
+  outline-offset: 24px;
+}
+
+.outline-offset-25 {
+  outline-offset: 25px;
 }
 /*# sourceMappingURL=umbala.css.map */
