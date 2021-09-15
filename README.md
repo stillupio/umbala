@@ -16,6 +16,7 @@
 - [Letter spacing](#letter-spacing)
 - [Line Height](#line-height)
 - [Text Decorations](#text-decorations)
+- [Text Transform](#text-transform)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -102,10 +103,20 @@ You can add a text decration to your html element by adding "text-decoration-...
 
 ```html
 
-<p class="gray line-height-4 text-decoration-underline" > Welcome to umbala </p>
+<p class="black text-decoration-underline" > Welcome to umbala </p>
 
 ```
 Note: you can add none value to <a> by adding "text-decoration-none".
+
+## Text Transform
+
+You can specify a transform for your text by adding a simple class "uppercase, lowercase, capitalize".
+
+```html
+
+<p class="red capitalize" > Welcome to umbala </p>
+
+```
  
 ## Background Colors
 
