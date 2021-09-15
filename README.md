@@ -119,7 +119,17 @@ You can specify a transform for your text by adding a simple class "uppercase, l
 
 ```
 
+## White Space
 
+You have the ability to add a white space to your html element by add "white-space-...".
+
+```html
+
+<p class="red white-space-wrap" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
+
+```
 
  
 ## Background Colors
