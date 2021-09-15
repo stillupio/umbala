@@ -136,7 +136,7 @@ You can add a word spacing by specify a value from 1 to 25 or normal in "word-sp
 
 ```html
 
-<p class="red word-spacing-5" > 
+<p class="red word-spacing-3" > 
  This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
 </p>
 
