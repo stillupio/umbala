@@ -17,6 +17,7 @@
 - [Line Height](#line-height)
 - [Text Decorations](#text-decorations)
 - [Text Transform](#text-transform)
+- [White space](#white-space)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -117,6 +118,9 @@ You can specify a transform for your text by adding a simple class "uppercase, l
 <p class="red capitalize" > Welcome to umbala </p>
 
 ```
+
+
+
  
 ## Background Colors
 
