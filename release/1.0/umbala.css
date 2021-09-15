@@ -332,6 +332,18 @@ by listining to our playlist in Spotify
   text-decoration: underline overline;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
 .background-white {
   background-color: #ffffff;
 }
