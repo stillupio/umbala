@@ -14,7 +14,8 @@
 - [Text Alignment](#text-alignment)
 - [Text Direction](#text-direction)
 - [Letter spacing](#letter-spacing)
-- [Line Height](#ine-height)
+- [Line Height](#line-height)
+- [Text Decorations](#text-decorations)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -95,6 +96,17 @@ You can add a line height to your text by using "line-height-..." and add a numb
 
 ```
 
+## Text Decorations
+
+You can add a text decration to your html element by adding "text-decoration-..."
+
+```html
+
+<p class="gray line-height-4 text-decoration-underline" > Welcome to umbala </p>
+
+```
+Note: you can add none value to <a> by adding "text-decoration-none".
+ 
 ## Background Colors
 
 You can include the background color to your html by adding color name after "background-".
