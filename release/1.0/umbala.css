@@ -312,6 +312,26 @@ by listining to our playlist in Spotify
   line-height: 25px;
 }
 
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.text-decoration-line-through {
+  text-decoration: line-through;
+}
+
+.text-decoration-overline {
+  text-decoration: overline;
+}
+
+.text-decoration-underline {
+  text-decoration: underline;
+}
+
+.text-decoration-lined {
+  text-decoration: underline overline;
+}
+
 .background-white {
   background-color: #ffffff;
 }

@@ -331,6 +331,24 @@ $black: #000000;
     line-height: 25px
 }
 
+// Text Decorations
+.text-decoration-none{
+    text-decoration: none;
+}
+.text-decoration-line-through{
+    text-decoration: line-through;
+}
+.text-decoration-overline{
+    text-decoration: overline;
+}
+.text-decoration-underline{
+    text-decoration: underline;
+}
+.text-decoration-lined{
+    text-decoration: underline overline;
+}
+
+
 //Background Colors
 .background-white {
     background-color: $white
