@@ -17,6 +17,74 @@ by listining to our playlist in Spotify
 @import url("https://fonts.google.com/specimen/Almarai");
 @import url("https://fonts.google.com/specimen/Aref+Ruqaa");
 @import url("https://fonts.google.com/specimen/Mirza");
+.sulu {
+  color: #89F387;
+}
+
+.blue {
+  color: #00acff;
+}
+
+.slate {
+  color: #6a5acd;
+}
+
+.violet {
+  color: #e95ee9;
+}
+
+.pink {
+  color: #f37cb2;
+}
+
+.orange {
+  color: #e36900;
+}
+
+.red {
+  color: #FF6347;
+}
+
+.yellow {
+  color: #f9f871;
+}
+
+.green {
+  color: #008a5c;
+}
+
+.gray {
+  color: #808080;
+}
+
+.gyeal {
+  color: #CCC;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-initial {
+  text-align: initial;
+}
+
+.text-inherit {
+  text-align: inherit;
+}
+
 .font-serif {
   font-family: serif;
 }
@@ -89,72 +157,20 @@ by listining to our playlist in Spotify
   font-family: 'Mirza';
 }
 
-.sulu {
-  color: #89F387;
+.font-variant-normal {
+  font-variant: normal;
 }
 
-.blue {
-  color: #00acff;
+.font-variant-small-caps {
+  font-variant: small-caps;
 }
 
-.slate {
-  color: #6a5acd;
+.font-variant-initial {
+  font-variant: initial;
 }
 
-.violet {
-  color: #e95ee9;
-}
-
-.pink {
-  color: #f37cb2;
-}
-
-.orange {
-  color: #e36900;
-}
-
-.red {
-  color: #FF6347;
-}
-
-.yellow {
-  color: #f9f871;
-}
-
-.green {
-  color: #008a5c;
-}
-
-.gray {
-  color: #808080;
-}
-
-.gyeal {
-  color: #CCC;
-}
-
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.text-justify {
-  text-align: justify;
-}
-
-.text-initial {
-  text-align: initial;
-}
-
-.text-inherit {
-  text-align: inherit;
+.font-variant-inherit {
+  font-variant: inherit;
 }
 
 .direction-rtl {

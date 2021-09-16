@@ -21,79 +21,6 @@ by listining to our playlist in Spotify
 @import url('https://fonts.google.com/specimen/Almarai');
 @import url('https://fonts.google.com/specimen/Aref+Ruqaa');
 @import url('https://fonts.google.com/specimen/Mirza');
-//Fonts
-.font-serif {
-    font-family: serif;
-}
-
-.font-sans-serif {
-    font-family: sans-serif;
-}
-
-.font-monosapce {
-    font-family: monospace;
-}
-
-.font-cursive {
-    font-family: cursive
-}
-
-.font-fantasy {
-    font-family: fantasy
-}
-
-.font-roboto {
-    font-family: 'Roboto';
-}
-
-.font-open-sans {
-    font-family: 'Open-sans';
-}
-
-.font-lato {
-    font-family: 'Lato';
-}
-
-.font-montserrat {
-    font-family: 'Montserrat';
-}
-
-.font-poppins {
-    font-family: 'Poppins';
-}
-
-.font-oswald {
-    font-family: 'Oswald';
-}
-
-.font-playfair-display {
-    font-family: 'Playfair-Display';
-}
-
-.font-cairo {
-    font-family: 'cairo';
-}
-
-.font-tajawal {
-    font-family: 'Tajawal';
-}
-
-.font-amiri {
-    font-family: 'Amiri';
-}
-
-.font-almarai {
-    font-family: 'Almarai';
-}
-
-.font-aref-ruqaa {
-    font-family: 'Aref-Ruqaa';
-}
-
-.font-mirza {
-    font-family: 'Mirza';
-}
-
 //Umbala Matching Palette
 $sulu: #89F387;
 $blue: #00acff;
@@ -176,6 +103,96 @@ $black: #000000;
 
 .text-inherit {
     text-align: inherit;
+}
+
+//Fonts
+.font-serif {
+    font-family: serif;
+}
+
+.font-sans-serif {
+    font-family: sans-serif;
+}
+
+.font-monosapce {
+    font-family: monospace;
+}
+
+.font-cursive {
+    font-family: cursive
+}
+
+.font-fantasy {
+    font-family: fantasy
+}
+
+.font-roboto {
+    font-family: 'Roboto';
+}
+
+.font-open-sans {
+    font-family: 'Open-sans';
+}
+
+.font-lato {
+    font-family: 'Lato';
+}
+
+.font-montserrat {
+    font-family: 'Montserrat';
+}
+
+.font-poppins {
+    font-family: 'Poppins';
+}
+
+.font-oswald {
+    font-family: 'Oswald';
+}
+
+.font-playfair-display {
+    font-family: 'Playfair-Display';
+}
+
+.font-cairo {
+    font-family: 'cairo';
+}
+
+.font-tajawal {
+    font-family: 'Tajawal';
+}
+
+.font-amiri {
+    font-family: 'Amiri';
+}
+
+.font-almarai {
+    font-family: 'Almarai';
+}
+
+.font-aref-ruqaa {
+    font-family: 'Aref-Ruqaa';
+}
+
+.font-mirza {
+    font-family: 'Mirza';
+}
+
+//Font variant
+.font-variant-normal {
+    font-variant: normal;
+}
+
+.font-variant-small-caps {
+    font-variant: small-caps;
+}
+
+.font-variant-initial {
+    font-variant: initial;
+}
+
+.font-variant-inherit {
+    font-variant: inherit;
 }
 
 //Direction
