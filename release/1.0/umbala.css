@@ -4,6 +4,71 @@
 you can get fun with your coding time
 by listining to our playlist in Spotify
 =======================================*/
+@import url("https://fonts.google.com/specimen/Roboto");
+@import url("https://fonts.google.com/specimen/Open+Sans");
+@import url("https://fonts.google.com/specimen/Lato");
+@import url("https://fonts.google.com/specimen/Montserrat");
+@import url("https://fonts.google.com/specimen/Poppins");
+@import url("https://fonts.google.com/specimen/Oswald");
+@import url("https://fonts.google.com/specimen/Playfair+Display");
+@import url("https://fonts.google.com/specimen/Cairo");
+@import url("https://fonts.google.com/specimen/Tajawal");
+@import url("https://fonts.google.com/specimen/Amiri");
+@import url("https://fonts.google.com/specimen/Almarai");
+@import url("https://fonts.google.com/specimen/Aref+Ruqaa");
+@import url("https://fonts.google.com/specimen/Mirza");
+.font-roboto {
+  font-family: 'Roboto';
+}
+
+.font-open-sans {
+  font-family: 'Open-sans';
+}
+
+.font-lato {
+  font-family: 'Lato';
+}
+
+.font-montserrat {
+  font-family: 'Montserrat';
+}
+
+.font-poppins {
+  font-family: 'Poppins';
+}
+
+.font-oswald {
+  font-family: 'Oswald';
+}
+
+.font-playfair-display {
+  font-family: 'Playfair-Display';
+}
+
+.font-cairo {
+  font-family: 'cairo';
+}
+
+.font-tajawal {
+  font-family: 'Tajawal';
+}
+
+.font-amiri {
+  font-family: 'Amiri';
+}
+
+.font-almarai {
+  font-family: 'Almarai';
+}
+
+.font-aref-ruqaa {
+  font-family: 'Aref-Ruqaa';
+}
+
+.font-mirza {
+  font-family: 'Mirza';
+}
+
 .sulu {
   color: #89F387;
 }
