@@ -19,6 +19,7 @@
 - [Text Transform](#text-transform)
 - [White space](#white-space)
 - [Font Family](#font-family)
+- [Font Variant](#font-variant)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -145,7 +146,7 @@ You can add a word spacing by specify a value from 1 to 25 or normal in "word-sp
 
 ## Font Family
 
-You can font family to your font by add "font-...".
+You can specify a font family to your font by add "font-...".
 
 ```html
 
@@ -174,6 +175,15 @@ $ mirza
 
 ```
 
+## Font Variant
+
+You can add to your font a font-variant by adding "font-variant-.."
+
+```html
+
+<p class="sulu font-variant-normal" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
 
  
 ## Background Colors
