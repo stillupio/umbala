@@ -18,6 +18,7 @@
 - [Text Decorations](#text-decorations)
 - [Text Transform](#text-transform)
 - [White space](#white-space)
+- [Font Family](#font-family)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -141,6 +142,39 @@ You can add a word spacing by specify a value from 1 to 25 or normal in "word-sp
 </p>
 
 ```
+
+## Font Family
+
+You can font family to your font by add "font-...".
+
+```html
+
+<p class="black font-serif" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
+
+```
+Note: this is a list for all Google fonts included on umbala
+
+```bash
+
+$ roboto
+$ open-sans
+$ Lato
+$ montserrat
+$ poppins
+$ oswlad
+$ playfair display
+$ cairo
+$ tajawal
+$ amiri
+$ almarai
+$ aref-ruqaa
+$ mirza
+
+```
+
+
  
 ## Background Colors
 
