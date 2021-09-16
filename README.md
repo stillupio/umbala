@@ -14,7 +14,10 @@
 - [Text Alignment](#text-alignment)
 - [Text Direction](#text-direction)
 - [Letter spacing](#letter-spacing)
-- [Line Height](#ine-height)
+- [Line Height](#line-height)
+- [Text Decorations](#text-decorations)
+- [Text Transform](#text-transform)
+- [White space](#white-space)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -95,6 +98,50 @@ You can add a line height to your text by using "line-height-..." and add a numb
 
 ```
 
+## Text Decorations
+
+You can add a text decration to your html element by adding "text-decoration-..."
+
+```html
+
+<p class="black text-decoration-underline" > Welcome to umbala </p>
+
+```
+Note: you can add none value to <a> by adding "text-decoration-none".
+
+## Text Transform
+
+You can specify a transform for your text by adding a simple class "uppercase, lowercase, capitalize".
+
+```html
+
+<p class="red capitalize" > Welcome to umbala </p>
+
+```
+
+## White Space
+
+You have the ability to add a white space to your html element by add "white-space-...".
+
+```html
+
+<p class="red white-space-wrap" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
+
+```
+## Word Spacing
+
+You can add a word spacing by specify a value from 1 to 25 or normal in "word-spacing-...".
+
+```html
+
+<p class="red word-spacing-3" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
+
+```
+ 
 ## Background Colors
 
 You can include the background color to your html by adding color name after "background-".
