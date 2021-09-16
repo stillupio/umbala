@@ -185,6 +185,7 @@ You can add to your font a font-variant by adding "font-variant-.."
  This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
 </p>
 
+```
  
 ## Background Colors
 
