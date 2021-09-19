@@ -201,6 +201,8 @@ You can add font size from 1px to 25px or some regulrar UI sizes by adding "font
 ```
 
 ```html
+// Some regular UI sizes
+
 
 font-size-small
 
