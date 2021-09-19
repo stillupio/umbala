@@ -21,6 +21,7 @@
 - [Font Family](#font-family)
 - [Font Variant](#font-variant)
 - [Font Size](#font-size)
+- [Font Weight](#font-weight)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -218,6 +219,17 @@ font-size-big-plus
 
 ```
 
+## Font Weight
+
+You have some font wight you can add to your html like the regular css ones from 100 to 900 and normal, bold, bolder, lighter by adding "font-weight-..."
+
+```html
+
+<p class="gray font-weight-600" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
+
+```
 
  
 ## Background Colors
