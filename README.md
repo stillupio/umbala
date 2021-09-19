@@ -20,6 +20,7 @@
 - [White space](#white-space)
 - [Font Family](#font-family)
 - [Font Variant](#font-variant)
+- [Font Size](#font-size)
 - [Background Colors](#background-colors)
 - [Borders](#borders)
 - [Margins](#margins)
@@ -186,6 +187,36 @@ You can add to your font a font-variant by adding "font-variant-.."
 </p>
 
 ```
+
+## Font Size
+
+You can add font size from 1px to 25px or some regulrar UI sizes by adding "font-size-..."
+
+```html
+
+<p class="gray font-size-16" > 
+ This example demonstrates the white-space property. You can see the result of the different white-space properties by  clicking on one of the properties on the left.  
+</p>
+
+```
+
+```html
+
+font-size-small
+
+font-size-title
+
+font-size-paragraph
+
+font-size-thumb
+
+font-size-big
+
+font-size-big-plus
+
+```
+
+
  
 ## Background Colors
 
