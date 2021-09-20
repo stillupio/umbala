@@ -196,24 +196,30 @@ $black: #000000;
 }
 
 //Font Size
-.font-size-small{
+.font-size-small {
     font-size: 12.5px;
 }
-.font-size-title{
+
+.font-size-title {
     font-size: 22px;
 }
-.font-size-paragraph{
+
+.font-size-paragraph {
     font-size: 16px;
 }
-.font-size-thumb{
+
+.font-size-thumb {
     font-size: 18px;
 }
-.font-size-big{
+
+.font-size-big {
     font-size: 50px;
 }
-.font-size-big-plus{
+
+.font-size-big-plus {
     font-size: 100px;
 }
+
 .font-size-0 {
     font-size: 0px
 }
@@ -317,46 +323,60 @@ $black: #000000;
 .font-size-25 {
     font-size: 25px
 }
+
 //Font weight
 .font-weight-normal {
     font-weight: normal;
 }
+
 .font-weight-bold {
     font-weight: bold;
 }
+
 .font-weight-bolder {
     font-weight: bolder;
 }
+
 .font-weight-lighter {
     font-weight: lighter;
 }
+
 .font-weight-100 {
     font-weight: '100';
 }
+
 .font-weight-200 {
     font-weight: '200';
 }
+
 .font-weight-300 {
     font-weight: '300';
 }
+
 .font-weight-400 {
     font-weight: '400';
 }
+
 .font-weight-500 {
     font-weight: '500';
 }
+
 .font-weight-600 {
     font-weight: '600';
 }
+
 .font-weight-700 {
     font-weight: '700';
 }
+
 .font-weight-800 {
     font-weight: '800';
 }
+
 .font-weight-900 {
     font-weight: '900';
 }
+
 //Direction
 .direction-rtl {
     direction: rtl;
@@ -4630,4 +4650,89 @@ $black: #000000;
 
 .outline-offset-25 {
     outline-offset: 25px;
+}
+
+//Display
+.display-none {
+    display: none;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-contents {
+    display: contents;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.display-grid {
+    display: grid;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.display-inline-flex {
+    display: inline-flex;
+}
+
+.display-inline-grid {
+    display: inline-grid;
+}
+
+.display-inline-table {
+    display: inline-table;
+}
+
+.display-list-item {
+    display: list-item;
+}
+
+.display-run-in {
+    display: run-in;
+}
+
+.display-table {
+    display: table;
+}
+
+.display-table-caption {
+    display: table-caption;
+}
+
+.display-table-column-group {
+    display: table-column-group;
+}
+
+.display-table-header-group {
+    display: table-header-group;
+}
+
+.display-table-footer-group {
+    display: table-footer-group;
+}
+
+.display-table-row-group {
+    display: table-row-group;
+}
+
+.display-table-cell {
+    display: table-cell;
+}
+
+.display-table-column {
+    display: table-column;
+}
+
+.display-table-row {
+    display: table-row;
 }
