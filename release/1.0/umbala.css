@@ -4706,4 +4706,25 @@ by listining to our playlist in Spotify
 .display-table-row {
   display: table-row;
 }
+
+.position-relative {
+  position: relative;
+}
+
+.position-static {
+  position: static;
+}
+
+.position-fixed {
+  position: fixed;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.position-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
 /*# sourceMappingURL=umbala.css.map */
