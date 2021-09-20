@@ -427,3 +427,30 @@ You can add position value to your code by specify "position-..."
 
 ```
 ### Top, Bottom, left, right
+
+You can specify a top, bottom, left, right value by add from 1px to 25px, or by percent 5, 10, 15, ..., 100 or auto
+
+```html
+
+<div class="background-red position-absolute top-auto">
+  <p class="sulu margin-5" > exemple for top: auto </p>
+</div>
+
+```
+
+
+```html
+
+<div class="background-red position-absolute bottom-12">
+  <p class="sulu margin-5" > exemple for bottom: 12px </p>
+</div>
+
+```
+
+```html
+
+<div class="background-red position-absolute left-25per">
+  <p class="sulu margin-5" > exemple for left: 25% </p>
+</div>
+
+```
