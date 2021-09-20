@@ -27,6 +27,7 @@
 - [Margins](#margins)
 - [Paddings](#paddings)
 - [Outlines](#Outlines)
+- [Display](#display)
 
 ## Colors Pallet
 
@@ -391,6 +392,26 @@ You can add outline to your html by add (color, width, style, offset) proprety a
 
 <div class="border-red border-width-3 border-style-solid  outline-red outline-width-2 outline-style-dotted outline-offset-5">
   <p class="sulu margin-5" > Welcome to umbala </p>
+</div>
+
+```
+
+
+## Display
+
+You can specify the display in your html style by adding "dispaly-..."
+
+```html
+
+<div class="background-red display-none">
+  <p class="sulu margin-5" > none display exemple </p>
+</div>
+
+```
+```html
+
+<div class="background-red display-block">
+  <p class="sulu margin-5" > Block display exemple </p>
 </div>
 
 ```
