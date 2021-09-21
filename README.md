@@ -28,7 +28,7 @@
 - [Paddings](#paddings)
 - [Outlines](#Outlines)
 - [Display](#display)
-- [Position](#position)
+- [Position](#top---bottom---left---right)
 - [Z-index](#z-index)
 - [Overflow](#overflow)
 - [Float](#float)
