@@ -28,7 +28,7 @@
 - [Paddings](#paddings)
 - [Outlines](#Outlines)
 - [Display](#display)
-- [Top - Bottom - left - right](#top-bottom-left-right)
+- [Position](#position)
 
 ## Colors Pallet
 
