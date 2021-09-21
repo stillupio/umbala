@@ -5718,3 +5718,52 @@ $black: #000000;
 .z-index-neg-9999 {
     z-index: -9999;
 }
+
+//Overflow
+.overflow-visible {
+    overflow: visible;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.overflow-scroll {
+    overflow: scroll;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
+
+.overflow-x-visible {
+    overflow: visible;
+}
+
+.overflow-x-hidden {
+    overflow: hidden;
+}
+
+.overflow-x-scroll {
+    overflow: scroll;
+}
+
+.overflow-x-auto {
+    overflow: auto;
+}
+
+.overflow-y-visible {
+    overflow: visible;
+}
+
+.overflow-y-hidden {
+    overflow: hidden;
+}
+
+.overflow-y-scroll {
+    overflow: scroll;
+}
+
+.overflow-y-auto {
+    overflow: auto;
+}
