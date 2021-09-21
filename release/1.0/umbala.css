@@ -5731,4 +5731,28 @@ by listining to our playlist in Spotify
 .overflow-y-auto {
   overflow: auto;
 }
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-none {
+  float: none;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.clear-none {
+  clear: none;
+}
 /*# sourceMappingURL=umbala.css.map */
