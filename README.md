@@ -31,6 +31,7 @@
 - [Position](#position)
 - [Z-index](#z-index)
 - [Overflow](#overflow)
+- [Float](#float)
 
 ## Colors Pallet
 
@@ -502,3 +503,22 @@ You can add  overflow property for specify what should happen if content overflo
 
 
 ```
+
+### Float
+
+You can add  overflow property for specify how an element should floatm and clear for what elements can float beside the cleared element and on which side.
+
+```html
+
+<div class="background-red">
+  <img src="./localhost/img.png" alt="exemple" class="float-left"/>
+</div>
+
+
+<div class="background-red">
+  <img src="./localhost/img.png" alt="exemple" class="clear-none"/>
+</div>
+
+
+```
+
