@@ -29,6 +29,7 @@
 - [Outlines](#Outlines)
 - [Display](#display)
 - [Position](#position)
+- [Z-index](#z-index)
 
 ## Colors Pallet
 
@@ -455,3 +456,26 @@ You can specify a top, bottom, left, right value by add from 1px to 25px, or by 
 </div>
 
 ```
+
+### Z-index
+
+You can add z-index property to specify the stack order of an element by adding "z-index-..."
+
+```html
+//Exemple for positive value 
+
+<div class="background-red z-index-10">
+  <p class="sulu margin-5" > exemple for top: auto </p>
+</div>
+
+```
+```html
+//Exemple for negative value 
+
+<div class="background-red z-index-neg-10">
+  <p class="sulu margin-5" > exemple for top: auto </p>
+</div>
+
+```
+
+Note: you can add value from 1 to 25 or -1 to -25 or commun values in CSS users 99, 999, 9999 or auto
