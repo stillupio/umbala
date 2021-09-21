@@ -28,6 +28,7 @@
 - [Paddings](#paddings)
 - [Outlines](#Outlines)
 - [Display](#display)
+- [Top - Bottom - left - right](#top-bottom-left-right)
 
 ## Colors Pallet
 
@@ -426,7 +427,7 @@ You can add position value to your code by specify "position-..."
 </div>
 
 ```
-### Top, Bottom, left, right
+### Top - Bottom - left - right
 
 You can specify a top, bottom, left, right value by add from 1px to 25px, or by percent 5, 10, 15, ..., 100 or auto
 
