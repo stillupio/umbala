@@ -1,11 +1,43 @@
-.clear-left {
-    clear: left;
+.sulu {
+    color: $sulu
 }
 
-.clear-right {
-    clear: right;
+.blue {
+    color: $blue
 }
 
-.clear-none {
-    clear: none;
+.slate {
+    color: $slate
+}
+
+.violet {
+    color: $violet
+}
+
+.pink {
+    color: $pink
+}
+
+.orange {
+    color: $orange
+}
+
+.red {
+    color: $red
+}
+
+.yellow {
+    color: $yellow
+}
+
+.green {
+    color: $green
+}
+
+.gray {
+    color: $gray
+}
+
+.gyeal {
+    color: $gyeal
 }
