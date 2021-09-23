@@ -32,6 +32,7 @@
 - [Z-index](#z-index)
 - [Overflow](#overflow)
 - [Float](#float)
+- [Sahdows](#sahdows)
 
 ## Colors Pallet
 
@@ -430,7 +431,7 @@ You can add position value to your code by specify "position-..."
 </div>
 
 ```
-### Top - Bottom - left - right
+## Top - Bottom - left - right
 
 You can specify a top, bottom, left, right value by add from 1px to 25px, or by percent 5, 10, 15, ..., 100 or auto
 
@@ -459,7 +460,7 @@ You can specify a top, bottom, left, right value by add from 1px to 25px, or by 
 
 ```
 
-### Z-index
+## Z-index
 
 You can add z-index property to specify the stack order of an element by adding "z-index-..."
 
@@ -483,7 +484,7 @@ You can add z-index property to specify the stack order of an element by adding 
 Note: you can add value from 1 to 25 or -1 to -25 or commun values in CSS users 99, 999, 9999 or auto
 
 
-### Overflow
+## Overflow
 
 You can add  overflow property for specify what should happen if content overflows an element's box.
 
@@ -504,7 +505,7 @@ You can add  overflow property for specify what should happen if content overflo
 
 ```
 
-### Float
+## Float
 
 You can add  overflow property for specify how an element should floatm and clear for what elements can float beside the cleared element and on which side.
 
@@ -522,3 +523,20 @@ You can add  overflow property for specify how an element should floatm and clea
 
 ```
 
+## Shadows
+
+You can add  shadow to your box in html by adding "shadow" or choose 5 styles "1, 2, 3, 4, 5".
+
+```html
+
+<div class="background-white shadow">
+  <h1>Hello world!</h1>
+</div>
+
+
+<div class="background-red shadow-2">
+  <h1>Hello world!</h1>
+</div>
+
+
+```
