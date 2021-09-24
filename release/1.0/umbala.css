@@ -61,6 +61,50 @@ by listining to our playlist in Spotify
   color: #CCC;
 }
 
+.hover-sulu:hover {
+  color: #89F387;
+}
+
+.hover-blue:hover {
+  color: #00acff;
+}
+
+.hover-slate:hover {
+  color: #6a5acd;
+}
+
+.hover-violet:hover {
+  color: #e95ee9;
+}
+
+.hover-pink:hover {
+  color: #f37cb2;
+}
+
+.hover-orange:hover {
+  color: #e36900;
+}
+
+.hover-red:hover {
+  color: #FF6347;
+}
+
+.hover-yellow:hover {
+  color: #f9f871;
+}
+
+.hover-green:hover {
+  color: #008a5c;
+}
+
+.hover-gray:hover {
+  color: #808080;
+}
+
+.hover-gyeal:hover {
+  color: #CCC;
+}
+
 .text-left {
   text-align: left;
 }
