@@ -657,6 +657,26 @@ by listining to our playlist in Spotify
   text-decoration: underline overline;
 }
 
+.hover-text-decoration-none:hover {
+  text-decoration: none;
+}
+
+.hover-text-decoration-line-through:hover {
+  text-decoration: line-through;
+}
+
+.hover-text-decoration-overline:hover {
+  text-decoration: overline;
+}
+
+.hover-text-decoration-underline:hover {
+  text-decoration: underline;
+}
+
+.hover-text-decoration-lined:hover {
+  text-decoration: underline overline;
+}
+
 .uppercase {
   text-transform: uppercase;
 }

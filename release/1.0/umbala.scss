@@ -684,6 +684,26 @@ $black: #000000;
     text-decoration: underline overline;
 }
 
+.hover-text-decoration-none:hover {
+    text-decoration: none;
+}
+
+.hover-text-decoration-line-through:hover {
+    text-decoration: line-through;
+}
+
+.hover-text-decoration-overline:hover {
+    text-decoration: overline;
+}
+
+.hover-text-decoration-underline:hover {
+    text-decoration: underline;
+}
+
+.hover-text-decoration-lined:hover {
+    text-decoration: underline overline;
+}
+
 //Text trnasformation
 .uppercase {
     text-transform: uppercase;
