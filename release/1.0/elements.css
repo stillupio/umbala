@@ -1,259 +1,219 @@
-.hover-border-white:hover {
-    border-color: $white
+.hover-border-style-dotted:hover {
+    border-style: dotted;
 }
 
-.hover-border-black:hover {
-    border-color: $black
+.hover-border-style-dashed:hover {
+    border-style: dashed;
 }
 
-.hover-border-sulu:hover {
-    border-color: $sulu
+.hover-border-style-solid:hover {
+    border-style: solid;
 }
 
-.hover-border-blue:hover {
-    border-color: $blue
+.hover-border-style-double:hover {
+    border-style: double;
 }
 
-.hover-border-slate:hover {
-    border-color: $slate
+.hover-border-style-groove:hover {
+    border-style: groove;
 }
 
-.hover-border-violet:hover {
-    border-color: $violet
+.hover-border-style-ridge:hover {
+    border-style: ridge;
 }
 
-.hover-border-pink:hover {
-    border-color: $pink
+.hover-border-style-inset:hover {
+    border-style: inset;
 }
 
-.hover-border-orange:hover {
-    border-color: $orange
+.hover-border-style-outset:hover {
+    border-style: outset;
 }
 
-.hover-border-red:hover {
-    border-color: $red
+.hover-border-style-none:hover {
+    border-style: none;
 }
 
-.hover-border-yellow:hover {
-    border-color: $yellow
+.hover-border-style-hidden:hover {
+    border-style: hidden;
 }
 
-.hover-border-green:hover {
-    border-color: $green
+.hover-border-style-mix:hover {
+    border-style: dotted dashed solid double;
 }
 
-.hover-border-gray:hover {
-    border-color: $gray
+.hover-border-top-style-dotted:hover {
+    border-top-style: dotted;
 }
 
-.hover-border-gyeal:hover {
-    border-color: $gyeal
+.hover-border-top-style-dashed:hover {
+    border-top-style: dashed;
 }
 
-.hover-border-top-white:hover {
-    border-top-color: $white
+.hover-border-top-style-solid:hover {
+    border-top-style: solid;
 }
 
-.hover-border-top-black:hover {
-    border-top-color: $black
+.hover-border-top-style-double:hover {
+    border-top-style: double;
 }
 
-.hover-border-top-sulu:hover {
-    border-top-color: $sulu
+.hover-border-top-style-groove:hover {
+    border-top-style: groove;
 }
 
-.hover-border-top-blue:hover {
-    border-top-color: $blue
+.hover-border-top-style-ridge:hover {
+    border-top-style: ridge;
 }
 
-.hover-border-top-slate:hover {
-    border-top-color: $slate
+.hover-border-top-style-inset:hover {
+    border-top-style: inset;
 }
 
-.hover-border-top-violet:hover {
-    border-top-color: $violet
+.hover-border-top-style-outset:hover {
+    border-top-style: outset;
 }
 
-.hover-border-top-pink:hover {
-    border-top-color: $pink
+.hover-border-top-style-none:hover {
+    border-top-style: none;
 }
 
-.hover-border-top-orange:hover {
-    border-top-color: $orange
+.hover-border-top-style-hidden:hover {
+    border-top-style: hidden;
 }
 
-.hover-border-top-red:hover {
-    border-top-color: $red
+.hover-border-top-style-mix:hover {
+    border-top-style: dotted dashed solid double;
 }
 
-.hover-border-top-yellow:hover {
-    border-top-color: $yellow
+.hover-border-bottom-style-dotted:hover {
+    border-bottom-style: dotted;
 }
 
-.hover-border-top-green:hover {
-    border-top-color: $green
+.hover-border-bottom-style-dashed:hover {
+    border-bottom-style: dashed;
 }
 
-.hover-border-top-gray:hover {
-    border-top-color: $gray
+.hover-border-bottom-style-solid:hover {
+    border-bottom-style: solid;
 }
 
-.hover-border-top-gyeal:hover {
-    border-top-color: $gyeal
+.hover-border-bottom-style-double:hover {
+    border-bottom-style: double;
 }
 
-.hover-border-bottom-white:hover {
-    border-bottom-color: $white
+.hover-border-bottom-style-groove:hover {
+    border-bottom-style: groove;
 }
 
-.hover-border-bottom-black:hover {
-    border-bottom-color: $black
+.hover-border-bottom-style-ridge:hover {
+    border-bottom-style: ridge;
 }
 
-.hover-border-bottom-sulu:hover {
-    border-bottom-color: $sulu
+.hover-border-bottom-style-inset:hover {
+    border-bottom-style: inset;
 }
 
-.hover-border-bottom-blue:hover {
-    border-bottom-color: $blue
+.hover-border-bottom-style-outset:hover {
+    border-bottom-style: outset;
 }
 
-.hover-border-bottom-slate:hover {
-    border-bottom-color: $slate
+.hover-border-bottom-style-none:hover {
+    border-bottom-style: none;
 }
 
-.hover-border-bottom-violet:hover {
-    border-bottom-color: $violet
+.hover-border-bottom-style-hidden:hover {
+    border-bottom-style: hidden;
 }
 
-.hover-border-bottom-pink:hover {
-    border-bottom-color: $pink
+.hover-border-bottom-style-mix:hover {
+    border-bottom-style: dotted dashed solid double;
 }
 
-.hover-border-bottom-orange:hover {
-    border-bottom-color: $orange
+.hover-border-left-style-dotted:hover {
+    border-left-style: dotted;
 }
 
-.hover-border-bottom-red:hover {
-    border-bottom-color: $red
+.hover-border-left-style-dashed:hover {
+    border-left-style: dashed;
 }
 
-.hover-border-bottom-yellow:hover {
-    border-bottom-color: $yellow
+.hover-border-left-style-solid:hover {
+    border-left-style: solid;
 }
 
-.hover-border-bottom-green:hover {
-    border-bottom-color: $green
+.hover-border-left-style-double:hover {
+    border-left-style: double;
 }
 
-.hover-border-bottom-gray:hover {
-    border-bottom-color: $gray
+.hover-border-left-style-groove:hover {
+    border-left-style: groove;
 }
 
-.hover-border-bottom-gyeal:hover {
-    border-bottom-color: $gyeal
+.hover-border-left-style-ridge:hover {
+    border-left-style: ridge;
 }
 
-.hover-border-left-white:hover {
-    border-left-color: $white
+.hover-border-left-style-inset:hover {
+    border-left-style: inset;
 }
 
-.hover-border-left-black:hover {
-    border-left-color: $black
+.hover-border-left-style-outset:hover {
+    border-left-style: outset;
 }
 
-.hover-border-left-sulu:hover {
-    border-left-color: $sulu
+.hover-border-left-style-none:hover {
+    border-left-style: none;
 }
 
-.hover-border-left-blue:hover {
-    border-left-color: $blue
+.hover-border-left-style-hidden:hover {
+    border-left-style: hidden;
 }
 
-.hover-border-left-slate:hover {
-    border-left-color: $slate
+.hover-border-left-style-mix:hover {
+    border-left-style: dotted dashed solid double;
 }
 
-.hover-border-left-violet:hover {
-    border-left-color: $violet
+.hover-border-right-style-dotted:hover {
+    border-right-style: dotted;
 }
 
-.hover-border-left-pink:hover {
-    border-left-color: $pink
+.hover-border-right-style-dashed:hover {
+    border-right-style: dashed;
 }
 
-.hover-border-left-orange:hover {
-    border-left-color: $orange
+.hover-border-right-style-solid:hover {
+    border-right-style: solid;
 }
 
-.hover-border-left-red:hover {
-    border-left-color: $red
+.hover-border-right-style-double:hover {
+    border-right-style: double;
 }
 
-.hover-border-left-yellow:hover {
-    border-left-color: $yellow
+.hover-border-right-style-groove:hover {
+    border-right-style: groove;
 }
 
-.hover-border-left-green:hover {
-    border-left-color: $green
+.hover-border-right-style-ridge:hover {
+    border-right-style: ridge;
 }
 
-.hover-border-left-gray:hover {
-    border-left-color: $gray
+.hover-border-right-style-inset:hover {
+    border-right-style: inset;
 }
 
-.hover-border-left-gyeal:hover {
-    border-left-color: $gyeal
+.hover-border-right-style-outset:hover {
+    border-right-style: outset;
 }
 
-.hover-border-right-white:hover {
-    border-right-color: $white
+.hover-border-right-style-none:hover {
+    border-right-style: none;
 }
 
-.hover-border-right-black:hover {
-    border-right-color: $black
+.hover-border-right-style-hidden:hover {
+    border-right-style: hidden;
 }
 
-.hover-border-right-sulu:hover {
-    border-right-color: $sulu
-}
-
-.hover-border-right-blue:hover {
-    border-right-color: $blue
-}
-
-.hover-border-right-slate:hover {
-    border-right-color: $slate
-}
-
-.hover-border-right-violet:hover {
-    border-right-color: $violet
-}
-
-.hover-border-right-pink:hover {
-    border-right-color: $pink
-}
-
-.hover-border-right-orange:hover {
-    border-right-color: $orange
-}
-
-.hover-border-right-red:hover {
-    border-right-color: $red
-}
-
-.hover-border-right-yellow:hover {
-    border-right-color: $yellow
-}
-
-.hover-border-right-green:hover {
-    border-right-color: $green
-}
-
-.hover-border-right-gray:hover {
-    border-right-color: $gray
-}
-
-.hover-border-right-gyeal:hover {
-    border-right-color: $gyeal
+.hover-border-right-style-mix:hover {
+    border-right-style: dotted dashed solid double;
 }
