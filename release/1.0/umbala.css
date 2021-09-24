@@ -1161,6 +1161,266 @@ by listining to our playlist in Spotify
   border-right-color: #CCC;
 }
 
+.hover-border-white:hover {
+  border-color: #ffffff;
+}
+
+.hover-border-black:hover {
+  border-color: #000000;
+}
+
+.hover-border-sulu:hover {
+  border-color: #89F387;
+}
+
+.hover-border-blue:hover {
+  border-color: #00acff;
+}
+
+.hover-border-slate:hover {
+  border-color: #6a5acd;
+}
+
+.hover-border-violet:hover {
+  border-color: #e95ee9;
+}
+
+.hover-border-pink:hover {
+  border-color: #f37cb2;
+}
+
+.hover-border-orange:hover {
+  border-color: #e36900;
+}
+
+.hover-border-red:hover {
+  border-color: #FF6347;
+}
+
+.hover-border-yellow:hover {
+  border-color: #f9f871;
+}
+
+.hover-border-green:hover {
+  border-color: #008a5c;
+}
+
+.hover-border-gray:hover {
+  border-color: #808080;
+}
+
+.hover-border-gyeal:hover {
+  border-color: #CCC;
+}
+
+.hover-border-top-white:hover {
+  border-top-color: #ffffff;
+}
+
+.hover-border-top-black:hover {
+  border-top-color: #000000;
+}
+
+.hover-border-top-sulu:hover {
+  border-top-color: #89F387;
+}
+
+.hover-border-top-blue:hover {
+  border-top-color: #00acff;
+}
+
+.hover-border-top-slate:hover {
+  border-top-color: #6a5acd;
+}
+
+.hover-border-top-violet:hover {
+  border-top-color: #e95ee9;
+}
+
+.hover-border-top-pink:hover {
+  border-top-color: #f37cb2;
+}
+
+.hover-border-top-orange:hover {
+  border-top-color: #e36900;
+}
+
+.hover-border-top-red:hover {
+  border-top-color: #FF6347;
+}
+
+.hover-border-top-yellow:hover {
+  border-top-color: #f9f871;
+}
+
+.hover-border-top-green:hover {
+  border-top-color: #008a5c;
+}
+
+.hover-border-top-gray:hover {
+  border-top-color: #808080;
+}
+
+.hover-border-top-gyeal:hover {
+  border-top-color: #CCC;
+}
+
+.hover-border-bottom-white:hover {
+  border-bottom-color: #ffffff;
+}
+
+.hover-border-bottom-black:hover {
+  border-bottom-color: #000000;
+}
+
+.hover-border-bottom-sulu:hover {
+  border-bottom-color: #89F387;
+}
+
+.hover-border-bottom-blue:hover {
+  border-bottom-color: #00acff;
+}
+
+.hover-border-bottom-slate:hover {
+  border-bottom-color: #6a5acd;
+}
+
+.hover-border-bottom-violet:hover {
+  border-bottom-color: #e95ee9;
+}
+
+.hover-border-bottom-pink:hover {
+  border-bottom-color: #f37cb2;
+}
+
+.hover-border-bottom-orange:hover {
+  border-bottom-color: #e36900;
+}
+
+.hover-border-bottom-red:hover {
+  border-bottom-color: #FF6347;
+}
+
+.hover-border-bottom-yellow:hover {
+  border-bottom-color: #f9f871;
+}
+
+.hover-border-bottom-green:hover {
+  border-bottom-color: #008a5c;
+}
+
+.hover-border-bottom-gray:hover {
+  border-bottom-color: #808080;
+}
+
+.hover-border-bottom-gyeal:hover {
+  border-bottom-color: #CCC;
+}
+
+.hover-border-left-white:hover {
+  border-left-color: #ffffff;
+}
+
+.hover-border-left-black:hover {
+  border-left-color: #000000;
+}
+
+.hover-border-left-sulu:hover {
+  border-left-color: #89F387;
+}
+
+.hover-border-left-blue:hover {
+  border-left-color: #00acff;
+}
+
+.hover-border-left-slate:hover {
+  border-left-color: #6a5acd;
+}
+
+.hover-border-left-violet:hover {
+  border-left-color: #e95ee9;
+}
+
+.hover-border-left-pink:hover {
+  border-left-color: #f37cb2;
+}
+
+.hover-border-left-orange:hover {
+  border-left-color: #e36900;
+}
+
+.hover-border-left-red:hover {
+  border-left-color: #FF6347;
+}
+
+.hover-border-left-yellow:hover {
+  border-left-color: #f9f871;
+}
+
+.hover-border-left-green:hover {
+  border-left-color: #008a5c;
+}
+
+.hover-border-left-gray:hover {
+  border-left-color: #808080;
+}
+
+.hover-border-left-gyeal:hover {
+  border-left-color: #CCC;
+}
+
+.hover-border-right-white:hover {
+  border-right-color: #ffffff;
+}
+
+.hover-border-right-black:hover {
+  border-right-color: #000000;
+}
+
+.hover-border-right-sulu:hover {
+  border-right-color: #89F387;
+}
+
+.hover-border-right-blue:hover {
+  border-right-color: #00acff;
+}
+
+.hover-border-right-slate:hover {
+  border-right-color: #6a5acd;
+}
+
+.hover-border-right-violet:hover {
+  border-right-color: #e95ee9;
+}
+
+.hover-border-right-pink:hover {
+  border-right-color: #f37cb2;
+}
+
+.hover-border-right-orange:hover {
+  border-right-color: #e36900;
+}
+
+.hover-border-right-red:hover {
+  border-right-color: #FF6347;
+}
+
+.hover-border-right-yellow:hover {
+  border-right-color: #f9f871;
+}
+
+.hover-border-right-green:hover {
+  border-right-color: #008a5c;
+}
+
+.hover-border-right-gray:hover {
+  border-right-color: #808080;
+}
+
+.hover-border-right-gyeal:hover {
+  border-right-color: #CCC;
+}
+
 .border-style-dotted {
   border-style: dotted;
 }
