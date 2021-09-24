@@ -1,127 +1,51 @@
-.hover-font-size-small:hover {
-    font-size: 12.5px;
+.hover-font-weight-normal:hover {
+    font-weight: normal;
 }
 
-.hover-font-size-title:hover {
-    font-size: 22px;
+.hover-font-weight-bold:hover {
+    font-weight: bold;
 }
 
-.hover-font-size-paragraph:hover {
-    font-size: 16px;
+.hover-font-weight-bolder:hover {
+    font-weight: bolder;
 }
 
-.hover-font-size-thumb:hover {
-    font-size: 18px;
+.hover-font-weight-lighter:hover {
+    font-weight: lighter;
 }
 
-.hover-font-size-big:hover {
-    font-size: 50px;
+.hover-font-weight-100:hover {
+    font-weight: '100';
 }
 
-.hover-font-size-big-plus:hover {
-    font-size: 100px;
+.hover-font-weight-200:hover {
+    font-weight: '200';
 }
 
-.hover-font-size-0:hover {
-    font-size: 0px
+.hover-font-weight-300:hover {
+    font-weight: '300';
 }
 
-.hover-font-size-1:hover {
-    font-size: 1px
+.hover-font-weight-400:hover {
+    font-weight: '400';
 }
 
-.hover-font-size-2:hover {
-    font-size: 2px
+.hover-font-weight-500:hover {
+    font-weight: '500';
 }
 
-.hover-font-size-3:hover {
-    font-size: 3px
+.hover-font-weight-600:hover {
+    font-weight: '600';
 }
 
-.hover-font-size-4:hover {
-    font-size: 4px
+.hover-font-weight-700:hover {
+    font-weight: '700';
 }
 
-.hover-font-size-5:hover {
-    font-size: 5px
+.hover-font-weight-800:hover {
+    font-weight: '800';
 }
 
-.hover-font-size-6:hover {
-    font-size: 6px
-}
-
-.hover-font-size-7:hover {
-    font-size: 7px
-}
-
-.hover-font-size-8:hover {
-    font-size: 8px
-}
-
-.hover-font-size-9:hover {
-    font-size: 9px
-}
-
-.hover-font-size-10:hover {
-    font-size: 10px
-}
-
-.hover-font-size-11:hover {
-    font-size: 11px
-}
-
-.hover-font-size-12:hover {
-    font-size: 12px
-}
-
-.hover-font-size-13:hover {
-    font-size: 13px
-}
-
-.hover-font-size-14:hover {
-    font-size: 14px
-}
-
-.hover-font-size-15:hover {
-    font-size: 15px
-}
-
-.hover-font-size-16:hover {
-    font-size: 16px
-}
-
-.hover-font-size-17:hover {
-    font-size: 17px
-}
-
-.hover-font-size-18:hover {
-    font-size: 18px
-}
-
-.hover-font-size-19:hover {
-    font-size: 19px
-}
-
-.hover-font-size-20:hover {
-    font-size: 20px
-}
-
-.hover-font-size-21:hover {
-    font-size: 21px
-}
-
-.hover-font-size-22:hover {
-    font-size: 22px
-}
-
-.hover-font-size-23:hover {
-    font-size: 23px
-}
-
-.hover-font-size-24:hover {
-    font-size: 24px
-}
-
-.hover-font-size-25:hover {
-    font-size: 25px
+.hover-font-weight-900:hover {
+    font-weight: '900';
 }

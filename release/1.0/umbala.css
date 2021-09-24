@@ -525,6 +525,58 @@ by listining to our playlist in Spotify
   font-weight: '900';
 }
 
+.hover-font-weight-normal:hover {
+  font-weight: normal;
+}
+
+.hover-font-weight-bold:hover {
+  font-weight: bold;
+}
+
+.hover-font-weight-bolder:hover {
+  font-weight: bolder;
+}
+
+.hover-font-weight-lighter:hover {
+  font-weight: lighter;
+}
+
+.hover-font-weight-100:hover {
+  font-weight: '100';
+}
+
+.hover-font-weight-200:hover {
+  font-weight: '200';
+}
+
+.hover-font-weight-300:hover {
+  font-weight: '300';
+}
+
+.hover-font-weight-400:hover {
+  font-weight: '400';
+}
+
+.hover-font-weight-500:hover {
+  font-weight: '500';
+}
+
+.hover-font-weight-600:hover {
+  font-weight: '600';
+}
+
+.hover-font-weight-700:hover {
+  font-weight: '700';
+}
+
+.hover-font-weight-800:hover {
+  font-weight: '800';
+}
+
+.hover-font-weight-900:hover {
+  font-weight: '900';
+}
+
 .direction-rtl {
   direction: rtl;
 }
