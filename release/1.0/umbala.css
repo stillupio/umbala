@@ -801,6 +801,58 @@ by listining to our playlist in Spotify
   background-color: #CCC;
 }
 
+.hover-background-white:hover {
+  background-color: #ffffff;
+}
+
+.hover-background-black:hover {
+  background-color: #000000;
+}
+
+.hover-background-sulu:hover {
+  background-color: #89F387;
+}
+
+.hover-background-blue:hover {
+  background-color: #00acff;
+}
+
+.hover-background-slate:hover {
+  background-color: #6a5acd;
+}
+
+.hover-background-violet:hover {
+  background-color: #e95ee9;
+}
+
+.hover-background-pink:hover {
+  background-color: #f37cb2;
+}
+
+.hover-background-orange:hover {
+  background-color: #e36900;
+}
+
+.hover-background-red:hover {
+  background-color: #FF6347;
+}
+
+.hover-background-yellow:hover {
+  background-color: #f9f871;
+}
+
+.hover-background-green:hover {
+  background-color: #008a5c;
+}
+
+.hover-background-gray:hover {
+  background-color: #808080;
+}
+
+.hover-background-gyeal:hover {
+  background-color: #CCC;
+}
+
 .border-none {
   border: none;
 }
