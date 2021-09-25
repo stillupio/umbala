@@ -1141,6 +1141,19 @@ $black: #000000;
     background-clip: content-box;
 }
 
+//background-origin
+.background-origin-border-box {
+    background-origin: border-box;
+}
+
+.background-origin-padding-box {
+    background-origin: padding-box;
+}
+
+.background-origin-content-box {
+    background-origin: content-box;
+}
+
 //umbala borders
 .border-none {
     border: none;

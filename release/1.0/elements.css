@@ -1,29 +1,12 @@
-.hover-shadow:hover {
-    -webkit-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+//background-origin
+.background-origin-border-box {
+    background-origin: border-box;
 }
 
-.hover-shadow-1:hover {
-    -webkit-box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
-    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+.background-origin-padding-box {
+    background-origin: padding-box;
 }
 
-.hover-shadow-2:hover {
-    -webkit-box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-}
-
-.hover-shadow-3:hover {
-    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-}
-
-.hover-shadow-4:hover {
-    -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-}
-
-.hover-shadow-5:hover {
-    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
-    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+.background-origin-content-box {
+    background-origin: content-box;
 }
