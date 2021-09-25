@@ -5393,6 +5393,318 @@ by listining to our playlist in Spotify
   outline-offset: 25px;
 }
 
+.focus-outline-none:focus {
+  outline: none;
+}
+
+.focus-outline-white:focus {
+  outline-color: #ffffff;
+}
+
+.focus-outline-black:focus {
+  outline-color: #000000;
+}
+
+.focus-outline-sulu:focus {
+  outline-color: #89F387;
+}
+
+.focus-outline-blue:focus {
+  outline-color: #00acff;
+}
+
+.focus-outline-slate:focus {
+  outline-color: #6a5acd;
+}
+
+.focus-outline-violet:focus {
+  outline-color: #e95ee9;
+}
+
+.focus-outline-pink:focus {
+  outline-color: #f37cb2;
+}
+
+.focus-outline-orange:focus {
+  outline-color: #e36900;
+}
+
+.focus-outline-red:focus {
+  outline-color: #FF6347;
+}
+
+.focus-outline-yellow:focus {
+  outline-color: #f9f871;
+}
+
+.focus-outline-green:focus {
+  outline-color: #008a5c;
+}
+
+.focus-outline-gray:focus {
+  outline-color: #808080;
+}
+
+.focus-outline-gyeal:focus {
+  outline-color: #CCC;
+}
+
+.focus-outline-width-thin:focus {
+  outline-width: thin;
+}
+
+.focus-outline-width-meduim:focus {
+  outline-width: medium;
+}
+
+.focus-outline-width-thick:focus {
+  outline-width: thick;
+}
+
+.focus-outline-width-1:focus {
+  outline-width: 1px;
+}
+
+.focus-outline-width-2:focus {
+  outline-width: 2px;
+}
+
+.focus-outline-width-3:focus {
+  outline-width: 3px;
+}
+
+.focus-outline-width-4:focus {
+  outline-width: 4px;
+}
+
+.focus-outline-width-5:focus {
+  outline-width: 5px;
+}
+
+.focus-outline-width-6:focus {
+  outline-width: 6px;
+}
+
+.focus-outline-width-7:focus {
+  outline-width: 7px;
+}
+
+.focus-outline-width-8:focus {
+  outline-width: 8px;
+}
+
+.focus-outline-width-9:focus {
+  outline-width: 9px;
+}
+
+.focus-outline-width-10:focus {
+  outline-width: 10px;
+}
+
+.focus-outline-width-11:focus {
+  outline-width: 11px;
+}
+
+.focus-outline-width-12:focus {
+  outline-width: 12px;
+}
+
+.focus-outline-width-13:focus {
+  outline-width: 13px;
+}
+
+.focus-outline-width-14:focus {
+  outline-width: 14px;
+}
+
+.focus-outline-width-15:focus {
+  outline-width: 15px;
+}
+
+.focus-outline-width-16:focus {
+  outline-width: 16px;
+}
+
+.focus-outline-width-17:focus {
+  outline-width: 17px;
+}
+
+.focus-outline-width-18:focus {
+  outline-width: 18px;
+}
+
+.focus-outline-width-19:focus {
+  outline-width: 19px;
+}
+
+.focus-outline-width-20:focus {
+  outline-width: 20px;
+}
+
+.focus-outline-width-21:focus {
+  outline-width: 21px;
+}
+
+.focus-outline-width-22:focus {
+  outline-width: 22px;
+}
+
+.focus-outline-width-23:focus {
+  outline-width: 23px;
+}
+
+.focus-outline-width-24:focus {
+  outline-width: 24px;
+}
+
+.focus-outline-width-25:focus {
+  outline-width: 25px;
+}
+
+.focus-outline-style-dotted:focus {
+  outline-style: dotted;
+}
+
+.focus-outline-style-dashed:focus {
+  outline-style: dashed;
+}
+
+.focus-outline-style-solid:focus {
+  outline-style: solid;
+}
+
+.focus-outline-style-double:focus {
+  outline-style: double;
+}
+
+.focus-outline-style-groove:focus {
+  outline-style: groove;
+}
+
+.focus-outline-style-ridge:focus {
+  outline-style: ridge;
+}
+
+.focus-outline-style-inset:focus {
+  outline-style: inset;
+}
+
+.focus-outline-style-outset:focus {
+  outline-style: outset;
+}
+
+.focus-outline-style-none:focus {
+  outline-style: none;
+}
+
+.focus-outline-style-hidden:focus {
+  outline-style: hidden;
+}
+
+.focus-outline-style-mix:focus {
+  outline-style: dotted dashed solid double;
+}
+
+.focus-outline-offset-1:focus {
+  outline-offset: 1px;
+}
+
+.focus-outline-offset-2:focus {
+  outline-offset: 2px;
+}
+
+.focus-outline-offset-3:focus {
+  outline-offset: 3px;
+}
+
+.focus-outline-offset-4:focus {
+  outline-offset: 4px;
+}
+
+.focus-outline-offset-5:focus {
+  outline-offset: 5px;
+}
+
+.focus-outline-offset-6:focus {
+  outline-offset: 6px;
+}
+
+.focus-outline-offset-7:focus {
+  outline-offset: 7px;
+}
+
+.focus-outline-offset-8:focus {
+  outline-offset: 8px;
+}
+
+.focus-outline-offset-9:focus {
+  outline-offset: 9px;
+}
+
+.focus-outline-offset-10:focus {
+  outline-offset: 10px;
+}
+
+.focus-outline-offset-11:focus {
+  outline-offset: 11px;
+}
+
+.focus-outline-offset-12:focus {
+  outline-offset: 12px;
+}
+
+.focus-outline-offset-13:focus {
+  outline-offset: 13px;
+}
+
+.focus-outline-offset-14:focus {
+  outline-offset: 14px;
+}
+
+.focus-outline-offset-15:focus {
+  outline-offset: 15px;
+}
+
+.focus-outline-offset-16:focus {
+  outline-offset: 16px;
+}
+
+.focus-outline-offset-17:focus {
+  outline-offset: 17px;
+}
+
+.focus-outline-offset-18:focus {
+  outline-offset: 18px;
+}
+
+.focus-outline-offset-19:focus {
+  outline-offset: 19px;
+}
+
+.focus-outline-offset-20:focus {
+  outline-offset: 20px;
+}
+
+.focus-outline-offset-21:focus {
+  outline-offset: 21px;
+}
+
+.focus-outline-offset-22:focus {
+  outline-offset: 22px;
+}
+
+.focus-outline-offset-23:focus {
+  outline-offset: 23px;
+}
+
+.focus-outline-offset-24:focus {
+  outline-offset: 24px;
+}
+
+.focus-outline-offset-25:focus {
+  outline-offset: 25px;
+}
+
 .display-none {
   display: none;
 }
@@ -6560,5 +6872,105 @@ by listining to our playlist in Spotify
 .shadow-5 {
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}
+
+.hover-shadow:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.hover-shadow-1:hover {
+  -webkit-box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+  box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+
+.hover-shadow-2:hover {
+  -webkit-box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.hover-shadow-3:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.hover-shadow-4:hover {
+  -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.hover-shadow-5:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}
+
+.transation {
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.transation-medium {
+  -webkit-transition: .7s;
+  transition: .7s;
+}
+
+.transation-slow {
+  -webkit-transition: 1.5s;
+  transition: 1.5s;
+}
+
+.transation {
+  -webkit-transition: .05s;
+  transition: .05s;
+}
+
+.transation-1 {
+  -webkit-transition: .1s;
+  transition: .1s;
+}
+
+.transation-2 {
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+.transation-3 {
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.transation-4 {
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.transation-5 {
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.transation-6 {
+  -webkit-transition: .6s;
+  transition: .6s;
+}
+
+.transation-7 {
+  -webkit-transition: .7s;
+  transition: .7s;
+}
+
+.transation-8 {
+  -webkit-transition: .8s;
+  transition: .8s;
+}
+
+.transation-9 {
+  -webkit-transition: .9s;
+  transition: .9s;
+}
+
+.transation-10 {
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 /*# sourceMappingURL=umbala.css.map */
