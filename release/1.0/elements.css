@@ -1,51 +1,311 @@
-.hover-font-weight-normal:hover {
-    font-weight: normal;
+.focus-outline-none:focus {
+    outline: none;
 }
 
-.hover-font-weight-bold:hover {
-    font-weight: bold;
+.focus-outline-white:focus {
+    outline-color: $white
 }
 
-.hover-font-weight-bolder:hover {
-    font-weight: bolder;
+.focus-outline-black:focus {
+    outline-color: $black
 }
 
-.hover-font-weight-lighter:hover {
-    font-weight: lighter;
+.focus-outline-sulu:focus {
+    outline-color: $sulu
 }
 
-.hover-font-weight-100:hover {
-    font-weight: '100';
+.focus-outline-blue:focus {
+    outline-color: $blue
 }
 
-.hover-font-weight-200:hover {
-    font-weight: '200';
+.focus-outline-slate:focus {
+    outline-color: $slate
 }
 
-.hover-font-weight-300:hover {
-    font-weight: '300';
+.focus-outline-violet:focus {
+    outline-color: $violet
 }
 
-.hover-font-weight-400:hover {
-    font-weight: '400';
+.focus-outline-pink:focus {
+    outline-color: $pink
 }
 
-.hover-font-weight-500:hover {
-    font-weight: '500';
+.focus-outline-orange:focus {
+    outline-color: $orange
 }
 
-.hover-font-weight-600:hover {
-    font-weight: '600';
+.focus-outline-red:focus {
+    outline-color: $red
 }
 
-.hover-font-weight-700:hover {
-    font-weight: '700';
+.focus-outline-yellow:focus {
+    outline-color: $yellow
 }
 
-.hover-font-weight-800:hover {
-    font-weight: '800';
+.focus-outline-green:focus {
+    outline-color: $green
 }
 
-.hover-font-weight-900:hover {
-    font-weight: '900';
+.focus-outline-gray:focus {
+    outline-color: $gray
+}
+
+.focus-outline-gyeal:focus {
+    outline-color: $gyeal
+}
+
+.focus-outline-width-thin:focus {
+    outline-width: thin;
+}
+
+.focus-outline-width-meduim:focus {
+    outline-width: medium;
+}
+
+.focus-outline-width-thick:focus {
+    outline-width: thick;
+}
+
+.focus-outline-width-1:focus {
+    outline-width: 1px;
+}
+
+.focus-outline-width-2:focus {
+    outline-width: 2px;
+}
+
+.focus-outline-width-3:focus {
+    outline-width: 3px;
+}
+
+.focus-outline-width-4:focus {
+    outline-width: 4px;
+}
+
+.focus-outline-width-5:focus {
+    outline-width: 5px;
+}
+
+.focus-outline-width-6:focus {
+    outline-width: 6px;
+}
+
+.focus-outline-width-7:focus {
+    outline-width: 7px;
+}
+
+.focus-outline-width-8:focus {
+    outline-width: 8px;
+}
+
+.focus-outline-width-9:focus {
+    outline-width: 9px;
+}
+
+.focus-outline-width-10:focus {
+    outline-width: 10px;
+}
+
+.focus-outline-width-11:focus {
+    outline-width: 11px;
+}
+
+.focus-outline-width-12:focus {
+    outline-width: 12px;
+}
+
+.focus-outline-width-13:focus {
+    outline-width: 13px;
+}
+
+.focus-outline-width-14:focus {
+    outline-width: 14px;
+}
+
+.focus-outline-width-15:focus {
+    outline-width: 15px;
+}
+
+.focus-outline-width-16:focus {
+    outline-width: 16px;
+}
+
+.focus-outline-width-17:focus {
+    outline-width: 17px;
+}
+
+.focus-outline-width-18:focus {
+    outline-width: 18px;
+}
+
+.focus-outline-width-19:focus {
+    outline-width: 19px;
+}
+
+.focus-outline-width-20:focus {
+    outline-width: 20px;
+}
+
+.focus-outline-width-21:focus {
+    outline-width: 21px;
+}
+
+.focus-outline-width-22:focus {
+    outline-width: 22px;
+}
+
+.focus-outline-width-23:focus {
+    outline-width: 23px;
+}
+
+.focus-outline-width-24:focus {
+    outline-width: 24px;
+}
+
+.focus-outline-width-25:focus {
+    outline-width: 25px;
+}
+
+.focus-outline-style-dotted:focus {
+    outline-style: dotted;
+}
+
+.focus-outline-style-dashed:focus {
+    outline-style: dashed;
+}
+
+.focus-outline-style-solid:focus {
+    outline-style: solid;
+}
+
+.focus-outline-style-double:focus {
+    outline-style: double;
+}
+
+.focus-outline-style-groove:focus {
+    outline-style: groove;
+}
+
+.focus-outline-style-ridge:focus {
+    outline-style: ridge;
+}
+
+.focus-outline-style-inset:focus {
+    outline-style: inset;
+}
+
+.focus-outline-style-outset:focus {
+    outline-style: outset;
+}
+
+.focus-outline-style-none:focus {
+    outline-style: none;
+}
+
+.focus-outline-style-hidden:focus {
+    outline-style: hidden;
+}
+
+.focus-outline-style-mix:focus {
+    outline-style: dotted dashed solid double;
+}
+
+.focus-outline-offset-1:focus {
+    outline-offset: 1px;
+}
+
+.focus-outline-offset-2:focus {
+    outline-offset: 2px;
+}
+
+.focus-outline-offset-3:focus {
+    outline-offset: 3px;
+}
+
+.focus-outline-offset-4:focus {
+    outline-offset: 4px;
+}
+
+.focus-outline-offset-5:focus {
+    outline-offset: 5px;
+}
+
+.focus-outline-offset-6:focus {
+    outline-offset: 6px;
+}
+
+.focus-outline-offset-7:focus {
+    outline-offset: 7px;
+}
+
+.focus-outline-offset-8:focus {
+    outline-offset: 8px;
+}
+
+.focus-outline-offset-9:focus {
+    outline-offset: 9px;
+}
+
+.focus-outline-offset-10:focus {
+    outline-offset: 10px;
+}
+
+.focus-outline-offset-11:focus {
+    outline-offset: 11px;
+}
+
+.focus-outline-offset-12:focus {
+    outline-offset: 12px;
+}
+
+.focus-outline-offset-13:focus {
+    outline-offset: 13px;
+}
+
+.focus-outline-offset-14:focus {
+    outline-offset: 14px;
+}
+
+.focus-outline-offset-15:focus {
+    outline-offset: 15px;
+}
+
+.focus-outline-offset-16:focus {
+    outline-offset: 16px;
+}
+
+.focus-outline-offset-17:focus {
+    outline-offset: 17px;
+}
+
+.focus-outline-offset-18:focus {
+    outline-offset: 18px;
+}
+
+.focus-outline-offset-19:focus {
+    outline-offset: 19px;
+}
+
+.focus-outline-offset-20:focus {
+    outline-offset: 20px;
+}
+
+.focus-outline-offset-21:focus {
+    outline-offset: 21px;
+}
+
+.focus-outline-offset-22:focus {
+    outline-offset: 22px;
+}
+
+.focus-outline-offset-23:focus {
+    outline-offset: 23px;
+}
+
+.focus-outline-offset-24:focus {
+    outline-offset: 24px;
+}
+
+.focus-outline-offset-25:focus {
+    outline-offset: 25px;
 }
