@@ -240,10 +240,10 @@ You have some font wight you can add to your html like the regular css ones from
  
 ## Background Colors
 
-You can include the background color to your html by adding color name after "background-".
+You can include the background color to your html by adding color name after "bg-".
 
 ```html
-<div class="background-gray">
+<div class="bg-gray">
   <p class="sulu" > Welcome to umbala </p>
 </div>
 
