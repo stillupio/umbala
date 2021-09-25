@@ -1128,6 +1128,19 @@ $black: #000000;
     background-color: $gyeal
 }
 
+//background-clip
+.background-clip-border-box {
+    background-clip: border-box;
+}
+
+.background-clip-padding-box {
+    background-clip: padding-box;
+}
+
+.background-clip-content-box {
+    background-clip: content-box;
+}
+
 //umbala borders
 .border-none {
     border: none;
