@@ -993,108 +993,168 @@ by listining to our playlist in Spotify
   word-spacing: 25px;
 }
 
-.background-white {
+.bg-white {
   background-color: #ffffff;
 }
 
-.background-black {
+.bg-black {
   background-color: #000000;
 }
 
-.background-sulu {
+.bg-sulu {
   background-color: #89F387;
 }
 
-.background-blue {
+.bg-blue {
   background-color: #00acff;
 }
 
-.background-slate {
+.bg-slate {
   background-color: #6a5acd;
 }
 
-.background-violet {
+.bg-violet {
   background-color: #e95ee9;
 }
 
-.background-pink {
+.bg-pink {
   background-color: #f37cb2;
 }
 
-.background-orange {
+.bg-orange {
   background-color: #e36900;
 }
 
-.background-red {
+.bg-red {
   background-color: #FF6347;
 }
 
-.background-yellow {
+.bg-yellow {
   background-color: #f9f871;
 }
 
-.background-green {
+.bg-green {
   background-color: #008a5c;
 }
 
-.background-gray {
+.bg-gray {
   background-color: #808080;
 }
 
-.background-gyeal {
+.bg-gyeal {
   background-color: #CCC;
 }
 
-.hover-background-white:hover {
+.hover-bg-white:hover {
   background-color: #ffffff;
 }
 
-.hover-background-black:hover {
+.hover-bg-black:hover {
   background-color: #000000;
 }
 
-.hover-background-sulu:hover {
+.hover-bg-sulu:hover {
   background-color: #89F387;
 }
 
-.hover-background-blue:hover {
+.hover-bg-blue:hover {
   background-color: #00acff;
 }
 
-.hover-background-slate:hover {
+.hover-bg-slate:hover {
   background-color: #6a5acd;
 }
 
-.hover-background-violet:hover {
+.hover-bg-violet:hover {
   background-color: #e95ee9;
 }
 
-.hover-background-pink:hover {
+.hover-bg-pink:hover {
   background-color: #f37cb2;
 }
 
-.hover-background-orange:hover {
+.hover-bg-orange:hover {
   background-color: #e36900;
 }
 
-.hover-background-red:hover {
+.hover-bg-red:hover {
   background-color: #FF6347;
 }
 
-.hover-background-yellow:hover {
+.hover-bg-yellow:hover {
   background-color: #f9f871;
 }
 
-.hover-background-green:hover {
+.hover-bg-green:hover {
   background-color: #008a5c;
 }
 
-.hover-background-gray:hover {
+.hover-bg-gray:hover {
   background-color: #808080;
 }
 
-.hover-background-gyeal:hover {
+.hover-bg-gyeal:hover {
   background-color: #CCC;
+}
+
+.bg-clip-border-box {
+  background-clip: border-box;
+}
+
+.bg-clip-padding-box {
+  background-clip: padding-box;
+}
+
+.bg-clip-content-box {
+  background-clip: content-box;
+}
+
+.bg-origin-border-box {
+  background-origin: border-box;
+}
+
+.bg-origin-padding-box {
+  background-origin: padding-box;
+}
+
+.bg-origin-content-box {
+  background-origin: content-box;
+}
+
+.bg-position-left-top {
+  background-position: left top;
+}
+
+.bg-position-left-center {
+  background-position: left center;
+}
+
+.bg-position-left-bottom {
+  background-position: left bottom;
+}
+
+.bg-position-right-top {
+  background-position: right top;
+}
+
+.bg-position-right-center {
+  background-position: right center;
+}
+
+.bg-position-right-bottom {
+  background-position: right bottom;
+}
+
+.bg-position-center-top {
+  background-position: center top;
+}
+
+.bg-position-center-center {
+  background-position: center center;
+}
+
+.bg-position-center-bottom {
+  background-position: center bottom;
 }
 
 .border-none {
@@ -6972,5 +7032,103 @@ by listining to our playlist in Spotify
 .transation-10 {
   -webkit-transition: 1s;
   transition: 1s;
+}
+
+.align-content-stretch {
+  -ms-flex-line-pack: stretch;
+      align-content: stretch;
+}
+
+.align-content-center {
+  -ms-flex-line-pack: scenter;
+      align-content: scenter;
+}
+
+.align-content-flex-start {
+  -ms-flex-line-pack: start;
+      align-content: flex-start;
+}
+
+.align-content-flex-end {
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
+}
+
+.align-content-space-between {
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
+}
+
+.align-content-space-around {
+  -ms-flex-line-pack: distribute;
+      align-content: space-around;
+}
+
+.align-content-space-evenly {
+  -ms-flex-line-pack: space-evenly;
+      align-content: space-evenly;
+}
+
+.align-items-flex-start {
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.align-items-flex-end {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.align-items-stretch {
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.align-items-baseline {
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+
+.align-items-center {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.align-self-flex-start {
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+}
+
+.align-self-flex-end {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
+.align-self-stretch {
+  -ms-flex-item-align: stretch;
+      -ms-grid-row-align: stretch;
+      align-self: stretch;
+}
+
+.align-self-baseline {
+  -ms-flex-item-align: baseline;
+      align-self: baseline;
+}
+
+.align-self-center {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.align-self-auto {
+  -ms-flex-item-align: auto;
+      -ms-grid-row-align: auto;
+      align-self: auto;
 }
 /*# sourceMappingURL=umbala.css.map */
